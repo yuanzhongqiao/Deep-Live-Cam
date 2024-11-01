@@ -334,16 +334,16 @@ pip install onnxruntime-openvino==1.15.0" tabindex="0" role="button">
       </span></animated-image></p>
 <div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="11395462" _msthash="345">人脸映射</h3><a id="user-content-face-mapping" class="anchor" aria-label="永久链接：人脸映射" href="#face-mapping" _mstaria-label="460239" _msthash="346"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto" _msttexthash="39137085" _msthash="347">动态跟踪和更换面孔。</p>
-<p dir="auto" _msthidden="3"><animated-image data-catalyst="" _msthidden="3"><a target="_blank" rel="noopener noreferrer" href="/hacksider/Deep-Live-Cam/blob/main/media/face_mapping_source.gif" data-target="animated-image.originalLink" hidden="" _msthidden="1"><img src="/hacksider/Deep-Live-Cam/raw/main/media/face_mapping_source.gif" alt="face_mapping_source" style="max-width: 100%;" data-target="animated-image.originalImage" hidden="" _msthidden="A" _mstalt="418470" _msthash="348"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" _msthidden="2">
+<p dir="auto" _msthidden="3"><animated-image data-catalyst="" _msthidden="3"><a target="_blank" rel="noopener noreferrer" href="/hacksider/Deep-Live-Cam/blob/main/media/face_mapping_source.gif" data-target="animated-image.originalLink" _msthidden="1"><img src="/hacksider/Deep-Live-Cam/raw/main/media/face_mapping_source.gif" alt="face_mapping_source" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="418470" _msthash="348" _mstvisible="0"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" _msthidden="2" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/hacksider/Deep-Live-Cam/blob/main/media/face_mapping_source.gif" target="_blank" _msthidden="1">
-          <span data-target="animated-image.imageContainer" _msthidden="1">
-            <img data-target="animated-image.replacedImage" alt="face_mapping_source" class="AnimatedImagePlayer-animatedImage" src="https://github.com/hacksider/Deep-Live-Cam/raw/main/media/face_mapping_source.gif" _msthidden="A" _mstalt="418470" _msthash="349">
-          </span>
-        </a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1"></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" _msthidden="1">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button">
+          
+        <span data-target="animated-image.imageContainer" _msthidden="1">
+            <img data-target="animated-image.replacedImage" alt="face_mapping_source" class="AnimatedImagePlayer-animatedImage" src="https://github.com/hacksider/Deep-Live-Cam/raw/main/media/face_mapping_source.gif" _msthidden="A" _mstalt="418470" _msthash="349" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="600" height="338"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play face_mapping_source" _msthidden="A" _mstaria-label="567749" _msthash="526" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" _msthidden="1" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play face_mapping_source" _msthidden="A" _mstaria-label="567749" _msthash="525">
             <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
             </path></svg>
@@ -352,7 +352,7 @@ pip install onnxruntime-openvino==1.15.0" tabindex="0" role="button">
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-          <a data-target="animated-image.openButton" aria-label="Open in new window" class="AnimatedImagePlayer-button" href="https://github.com/hacksider/Deep-Live-Cam/blob/main/media/face_mapping_source.gif" target="_blank" _msthidden="A" _mstaria-label="297050" _msthash="350">
+          <a data-target="animated-image.openButton" aria-label="Open face_mapping_source in new window" class="AnimatedImagePlayer-button" href="https://github.com/hacksider/Deep-Live-Cam/blob/main/media/face_mapping_source.gif" target="_blank" _msthidden="A" _mstaria-label="1117831" _msthash="350">
             <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
               <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
             </svg>
